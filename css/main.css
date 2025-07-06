@@ -225,7 +225,7 @@ header nav .form::after {
 .landig {
   min-height: 100vh;
   background-color: var(--main-color);
-  background-image: url(/images/modern-business-buildings.jpg);
+  background-image: url(../images/modern-business-buildings.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
@@ -438,7 +438,7 @@ section {
   justify-content: space-between;
   position: relative;
   background-color: var(--main-color);
-  background-image: url(/images/modern-business-buildings.jpg);
+  background-image: url(../images/modern-business-buildings.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
@@ -730,7 +730,7 @@ section .box .content .text {
   padding-bottom: 60px;
   width: 100%;
   height: 600px;
-  background-image: url(/images/78786.jpg);
+  background-image: url(../images/78786.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -1013,7 +1013,7 @@ section .box .content .text {
 /* start qute */
 .qute {
   height: 300px;
-  background-image: url(/images/black-and-white-mountain-sun-rays-l.jpg);
+  background-image: url(../images/black-and-white-mountain-sun-rays-l.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -1189,7 +1189,7 @@ section .box .content .text {
 /* start sub */
 .sub {
   padding: 60px 0;
-  background-image: url(/images/big-city.jpg);
+  background-image: url(../images/big-city.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
@@ -1378,7 +1378,7 @@ section .box .content .text {
 /* start footer */
 .footer {
   padding: 60px;
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(../images/subscribe.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
